@@ -1,2 +1,1 @@
-# python-practice-file
-i have started python programming and completed ................... , 
+this is desciption of python intro fiile
